@@ -34,4 +34,8 @@ IlyOs depende de las recomendaciones de sus usuarios, pero hay muchas opciones q
 - Xbox (Todo lo relacionado con el).
 - Todas las aplicaciones predeterminadas que vienen al instalar Windows 10 salvo Calculadora, Groove Music y Fotos.
 - Escritorio remoto en su totalidad.
+### ¿Que trae nuevo IlyOs?
+La función de IlyOs es la de eliminar todo componente que pueda ralentizar el ordenador y tener en general el sistema operativo lo más vacío posible. Esto no significa que no puedas instalar las aplicaciones que tu desees una vez instales el sistema dentro de tu máquina, será responsabilidad tuya.
+### ¿Cuanto espacio necesitas para instalar IlyOs?
+Necesitas aproximadamente 10GB, lo que significa que ocupará 16GB menos en comparación con el Windows base que da Microsoft. Este número no es exacto, puede variar por lo cual se recomienda tener al menos 25 / 30 GB de espacio para que IlyOs pueda navegar con normalidad y con rapidez.
 
