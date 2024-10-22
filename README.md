@@ -9,7 +9,7 @@ Esta guía o este proyecto es personal, no ha sido apoyado por terceros, pero pu
 ## *Descargas:*
 - Actualmente no hay enlace de descarga debido a que es una beta, solo unos cuantos testers podrán usarla. Cuando sea el debido momento, el enlace se publicará.
 - No descargues este sistema operativo de fuentes que no sean enlaces publicados por @IlyOs.
-- Si tienes algún tipo de error, [contáctanos](URL "https://twitter.com/7ilyOs").
+- Si tienes algún tipo de error, [contáctanos](https://twitter.com/7ilyOs).
 
 ## Instalación desatendida:
 La instalación es completamente desatendida para el idioma español, debido a que el proyecto esta ubicado en Valencia. Si deseas cambiar el idioma, tendrás que hacerlo al acabar la instalación.
