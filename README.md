@@ -1,1 +1,3 @@
 # ilyOs
+
+## Información básica.
