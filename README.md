@@ -9,16 +9,16 @@ Esta guía o este proyecto es personal, no ha sido apoyado por terceros, pero pu
 ## *Descargas:*
 - Actualmente no hay enlace de descarga debido a que es una beta, solo unos cuantos testers podrán usarla. Cuando sea el debido momento, el enlace se publicará.
 - No descargues este sistema operativo de fuentes que no sean enlaces publicados por @IlyOs.
-- Si tienes algún tipo de error, [contáctanos](https://twitter.com/7ilyOs).
+- Si tienes algún tipo de error, [*contáctanos*](https://twitter.com/7ilyOs).
 
-## Instalación desatendida:
-La instalación es completamente desatendida para el idioma español, debido a que el proyecto esta ubicado en Valencia. Si deseas cambiar el idioma, tendrás que hacerlo al acabar la instalación.
+## *Instalación desatendida:*
+La instalación es completamente desatendida para el idioma **español**, debido a que el proyecto esta ubicado en **Valencia**. Si deseas cambiar el idioma, tendrás que hacerlo al acabar la instalación.
 
-### Aviso.
+### *Aviso.*
 
-Al descargar o utilizar esta imagen, aceptas los Términos de Microsoft.
+Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https://www.microsoft.com/es-es/servicesagreement).
 <div align="center">
-  <h1>FAQ</h1>
+  <h1>*FAQ*</h1>
 </div>
 
 ### ¿Como puedo obtener IlyOs?
