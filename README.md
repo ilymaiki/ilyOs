@@ -1,7 +1,5 @@
 # ilyOs
-<div align="center">
-  <img src="https://github.com/ilymaiki/ilyos/blob/main/img0.jpg" alt="IlyOs" width="200">
-</div>
+
 ## Información básica.
 IlyOs es un sistema operativo creado para buscar la comodidad de sus usuarios mediante recomendaciones que ellos mismos pueden hacer. El sistema está basado en Windows 10, de una manera que ocupe menos y quitando aplicaciones u derivados que no tengan cabida en él.
 Este sistema operativo está enfocado en la rapidez, ya que por ello se han quitado muchas cosas que después se explicarán en los diferentes apartados.
