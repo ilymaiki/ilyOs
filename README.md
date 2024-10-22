@@ -20,5 +20,18 @@ La instalación es completamente desatendida para el idioma español, debido a q
 Al descargar o utilizar esta imagen, aceptas los Términos de Microsoft.
 <div align="center">
   <h1>FAQ</h1>
-  <p>Este texto está centrado.</p>
 </div>
+
+### ¿Como puedo obtener IlyOs?
+Puedes instalar IlyOs desde los enlaces que publicaré periódicamente cuando vea conveniente lanzar la actualización. Intentaré que sea lo antes posible.
+### ¿Que elimina IlyOs?
+IlyOs depende de las recomendaciones de sus usuarios, pero hay muchas opciones que no se usan o que son innecesarias, por las cuales las he ido eliminando. Cualquier aplicación que sea haya deshabilitado se podrá volver a instalar, pero dependerá de ti hacerlo. Se eliminan las siguientes cosas:
+-Todo lo relacionado con Hyper-V.
+- Internet Explorer.
+- Windows Hello.
+- Cortana.
+- Control ocular, llamadas, gerente de entrega de contenido y narrador.
+- Xbox (Todo lo relacionado con el).
+- Todas las aplicaciones predeterminadas que vienen al instalar Windows 10 salvo Calculadora, Groove Music y Fotos.
+- Escritorio remoto en su totalidad.
+
