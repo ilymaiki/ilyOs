@@ -25,7 +25,7 @@ Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https:
 Puedes instalar IlyOs desde los enlaces que publicaré periódicamente cuando vea conveniente lanzar la actualización. Intentaré que sea lo antes posible.
 ### **¿Que elimina IlyOs?**
 IlyOs depende de las recomendaciones de sus usuarios, pero hay muchas opciones que no se usan o que son innecesarias, por las cuales las he ido eliminando. Cualquier aplicación que sea haya deshabilitado se podrá volver a instalar, pero dependerá de ti hacerlo. Se eliminan las siguientes cosas:
--Todo lo relacionado con Hyper-V.
+- Todo lo relacionado con Hyper-V.
 - Internet Explorer.
 - Windows Hello.
 - Cortana.
