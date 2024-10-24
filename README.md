@@ -4,7 +4,7 @@ IlyOs es un sistema operativo creado para buscar la comodidad de sus usuarios me
 Este sistema operativo está enfocado en la rapidez, ya que por ello se han quitado muchas cosas que después se explicarán en los diferentes apartados.
 Algunas cosas son muy específicas y dependen de cada persona, por lo cual he decidido no cambiarlas debido a que se basan en cada persona independientemente.
 Esta guía o este proyecto es personal, no ha sido apoyado por terceros, pero puede recibir donaciones como método de agradecimiento, aunque **no son necesarias**.
-- **No asumo ninguna responsabilidad** de lo que vayas a hacer con este sistema operativo, si tú o cualquier otra persona ha roto tu hardware, tus periféricos o tu instalación del Windows nadie será responsable de ello, solamente tú.
+- **No asumo ninguna responsabilidad** de lo que vayas a hacer con este sistema operativo, si tú o cualquier otra persona ha roto tu hardware, tus periféricos o tu instalación del Windows nadie será responsable de ello, solamente **tú**.
 
 ## *Descargas:*
 - Actualmente no hay enlace de descarga debido a que es una beta, solo unos cuantos testers podrán usarla. Cuando sea el debido momento, el enlace se publicará.
