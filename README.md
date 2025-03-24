@@ -16,7 +16,7 @@ El sistema operativo de manera predeterminada trae el idioma Inglés, esto debid
 Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https://www.microsoft.com/es-es/servicesagreement).
 
 ### **¿Como puedo obtener IlyOs?**
-Puedes instalar IlyOs desde los enlaces que publicaré periódicamente cuando vea conveniente lanzar la actualización. Intentaré que sea lo antes posible.
+Puedes instalar IlyOs desde los enlaces que publicaré periódicamente cuando vea conveniente lanzar una actualización.
 ### **¿Que elimina IlyOs?**
 IlyOs elimina gran parte de los servicios y aplicaciones que Windows deja de manera predeterminada en el sistema operativo y consumen espacio y rendimiento. Unas de las muchas aplicaciones que elimina IlyOs son las siguientes:
 - Todo lo relacionado con Hyper-V.
