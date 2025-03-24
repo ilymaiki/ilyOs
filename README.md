@@ -5,24 +5,20 @@ Esta guía o este proyecto es personal, no ha sido apoyado por terceros, pero pu
 - **No asumo ninguna responsabilidad** de lo que vayas a hacer con este sistema operativo, si tú o cualquier otra persona ha roto tu hardware, tus periféricos o tu instalación del Windows nadie será responsable de ello, solamente **tú**.
 
 ## *Descargas:*
-- Actualmente no hay enlace de descarga debido a que es una beta, solo unos cuantos testers podrán usarla. Cuando sea el debido momento, el enlace se publicará.
+- Actualmente no hay enlace de descarga debido a que es una beta, solo unos cuantos testers podrán usarla.
 - No descargues este sistema operativo de fuentes que no sean enlaces publicados por @IlyOs.
 - Si tienes algún tipo de error, [*contáctanos*](https://twitter.com/7ilyOs).
 
-## *Instalación desatendida:*
-La instalación es completamente desatendida para el idioma **español**, debido a que el proyecto esta ubicado en **Valencia**. Si deseas cambiar el idioma, tendrás que hacerlo al acabar la instalación.
+## *Idioma del sistema operativo:*
+El sistema operativo de manera predeterminada trae el idioma Inglés, esto debido a que queremos que el sistema pueda ser utilizado por todas las personas del mundo y el inglés es un idioma internacional requerido en gran parte del mundo. Si bien el idioma predeterminada es ese, una vez se instale el sistema operativo puedes cambiar el idioma al que quieras libremente.
 
 ### *Aviso.*
-
 Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https://www.microsoft.com/es-es/servicesagreement).
-<div align="center">
-  <h1>FAQ</h1>
-</div>
 
 ### **¿Como puedo obtener IlyOs?**
 Puedes instalar IlyOs desde los enlaces que publicaré periódicamente cuando vea conveniente lanzar la actualización. Intentaré que sea lo antes posible.
 ### **¿Que elimina IlyOs?**
-IlyOs depende de las recomendaciones de sus usuarios, pero hay muchas opciones que no se usan o que son innecesarias, por las cuales las he ido eliminando. Cualquier aplicación que sea haya deshabilitado se podrá volver a instalar, pero dependerá de ti hacerlo. Se eliminan las siguientes cosas:
+IlyOs elimina gran parte de los servicios y aplicaciones que Windows deja de manera predeterminada en el sistema operativo y consumen espacio y rendimiento. Unas de las muchas aplicaciones que elimina IlyOs son las siguientes:
 - Todo lo relacionado con Hyper-V.
 - Internet Explorer.
 - Windows Hello.
@@ -34,4 +30,4 @@ IlyOs depende de las recomendaciones de sus usuarios, pero hay muchas opciones q
 ### **¿Que trae nuevo IlyOs?**
 La función de IlyOs es la de eliminar todo componente que pueda ralentizar el ordenador y tener en general el sistema operativo lo más vacío posible. Esto no significa que no puedas instalar las aplicaciones que tu desees una vez instales el sistema dentro de tu máquina, será responsabilidad tuya.
 ### **¿Cuanto espacio necesitas para instalar IlyOs?**
-Necesitas aproximadamente 10GB, lo que significa que ocupará 16GB menos en comparación con el Windows base que da Microsoft. Este número no es exacto, **puede variar** por lo cual se recomienda tener al menos 25 / 30 GB de espacio para que IlyOs pueda navegar con normalidad y con rapidez.
+IlyOs aproximadamente requiere de unos 20/25GB, este número puede **variar**, asi que siempre se aconseja tener un disco duro con suficiente espacio para que IlyOs pueda operar libremente y al mejor rendimiento posible.
