@@ -1,8 +1,6 @@
 # *ilyOs*
 ## *Información básica.*
-IlyOs es un sistema operativo creado para buscar la comodidad de sus usuarios mediante recomendaciones que ellos mismos pueden hacer. El sistema está basado en Windows 10, de una manera que ocupe menos y quitando aplicaciones u derivados que no tengan cabida en él.
-Este sistema operativo está enfocado en la rapidez, ya que por ello se han quitado muchas cosas que después se explicarán en los diferentes apartados.
-Algunas cosas son muy específicas y dependen de cada persona, por lo cual he decidido no cambiarlas debido a que se basan en cada persona independientemente.
+IlyOs es un sistema operativo que nace de la idea de mejorar el rendimiento de todos los ordenadores, basado en Windows 10 de una manera que ocupe menos y eliminando aplicaciones u derivados que no tengan cabida en el. Nos enfocamos en la rápidez, el rendimiento y en el bienestar a largo plazo de los ordenadores.
 Esta guía o este proyecto es personal, no ha sido apoyado por terceros, pero puede recibir donaciones como método de agradecimiento, aunque **no son necesarias**.
 - **No asumo ninguna responsabilidad** de lo que vayas a hacer con este sistema operativo, si tú o cualquier otra persona ha roto tu hardware, tus periféricos o tu instalación del Windows nadie será responsable de ello, solamente **tú**.
 
